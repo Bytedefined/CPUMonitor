@@ -1,4 +1,4 @@
-# SysTop
+# Bytetrex's CPU Usage Monitor
 
 CPU monitor app built with Electron
 
