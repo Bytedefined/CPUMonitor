@@ -1,6 +1,6 @@
 {
-  "name": "Bytetrex's CPU Usage Monitor",
-  "productName": "Bytetrex's CPU Usage Monitor",
+  "name": "Bytetrex\'s CPU Usage Monitor",
+  "productName": "Bytetrex\'s CPU Usage Monitor",
   "version": "1.0.0",
   "description": "Monitor your system CPU",
   "main": "main.js",
