@@ -1,6 +1,6 @@
 {
-  "name": "Bytetrex\'s CPU Usage Monitor",
-  "productName": "Bytetrex\'s CPU Usage Monitor",
+  "name": "Bytedefined CPU Usage Monitor",
+  "productName": "Bytedefined CPU Usage Monitor",
   "version": "1.0.0",
   "description": "Monitor your system CPU",
   "main": "main.js",
@@ -14,7 +14,8 @@
   "keywords": [
     "Electron"
   ],
-  "author": "Bytetrex",
+  "author": "Bytedefined",
+  "private": false,
   "license": "MIT",
   "devDependencies": {
     "electron": "^8.2.5",
