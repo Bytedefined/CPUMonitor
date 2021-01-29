@@ -1,4 +1,4 @@
-# Bytetrex's CPU Usage Monitor
+# Bytedefined's CPU Usage Monitor
 
 CPU monitor app built with Electron
 
