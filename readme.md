@@ -1,6 +1,6 @@
-# Bytedefined's CPU Usage Monitor
+# CPU Usage Monitor
 
-CPU monitor app built with Electron
+A CPU monitor app built with Electron
 
 ## Usage
 
