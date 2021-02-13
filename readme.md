@@ -1,6 +1,6 @@
 # CPU Usage Monitor
 
-A CPU monitor app built with Electron
+A CPU Monitor tool built in Electron.JS.
 
 ## Usage
 
